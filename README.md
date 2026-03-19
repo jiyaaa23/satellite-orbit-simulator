@@ -23,5 +23,16 @@ This project is a Python-based satellite orbit simulator that models and visuali
 - 3D visualization
 - Collision prediction system
 
+  ## 📊 Output
+
+### Graph 1
+![Graph 1](graph.png)
+
+### Graph 2
+![Graph 2](graph(2).png)
+
+### Graph 3
+![Graph 3](graph(3).png)
+
 ## 📌 Author
 Jiya Singh
