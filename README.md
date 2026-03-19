@@ -26,7 +26,7 @@ This project is a Python-based satellite orbit simulator that models and visuali
   ## 📊 Output
 
 ### Graph 1
-![Graph 1](graph.png)
+![Graph 1](graph(1).png)
 
 ### Graph 2
 ![Graph 2](graph(2).png)
